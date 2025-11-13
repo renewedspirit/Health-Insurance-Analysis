@@ -2,12 +2,12 @@
 
 ## Individual Formative Project - ETL, Python and Visualisation
 
-Welcome,
+## Dataset
 
-This is the Code Institute student template for the Data Analytics capstone project. We have preinstalled all of the tools you need to get started. It's perfectly okay to use this template as the basis for your project submissions. Click the `Use this template` button above to get started.
+The dataset relates to the cost of healthcare insurance. It contains approximately 1300 rows of data which 
 
-You can safely delete the Template Instructions section of this README.md file and modify the remaining paragraphs for your own project. Please do read the Template Instructions at least once, though! It contains some important information about the IDE and the extensions we use.
 
+Data analysis goals: Analyse healthcare insurance data to understand how personal attributes and geographic factors influence insurance costs and develop predictive models for estimating healthcare expenses. Provide insights and predictive reports for estimating healthcare insurance charges based on personal and geographic attributes.
 ## How to use this repo
 
 1. Use this template to create your GitHub project repo. Click the **Use this template** button, then click **Create a new repository**.
