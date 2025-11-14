@@ -3,6 +3,7 @@
 ## Individual Formative Project - ETL, Python and Visualisation
 
 ## Dataset
+Objectives - to collect the raw data, clean and save the data for analysing.
 
 
 
