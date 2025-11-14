@@ -23,6 +23,7 @@ Dataset was collected from Kaggle containing information of individuals. The dat
 **Dataset**: https://www.kaggle.com/datasets/willianoliveiragibin/healthcare-insurance?select=insurance.csv 
 
 
+
 ## Objectives 
 **ETL** 
 
@@ -36,6 +37,7 @@ To collect the raw data, clean and save the data for analysing.
 - Geographic Analysis: Visualise the impact of geographic regions on insurance charges.
 
 
+
 ## Discovery
 
 From the bar charts I discovered the following:
@@ -45,6 +47,13 @@ From the bar charts I discovered the following:
 
 - The below bar chart shows that smokers have a higher insurance charge compared with non-smokers.
 <img width="640" height="480" alt="cost_vs_smoker" src="https://github.com/user-attachments/assets/f2df2be5-c285-44dc-b6da-986603f96705" />
+
+
+
+## Google Doc Presentation
+
+https://docs.google.com/document/d/1iguAdu69uDb7yt-7VDJdZTT2LbU9S_0dS7Ush3adB1o/edit?usp=sharing
+
 
 
 ## Credits
